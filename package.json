@@ -18,7 +18,12 @@
     "@angular/platform-browser": "~13.3.0",
     "@angular/platform-browser-dynamic": "~13.3.0",
     "@angular/router": "~13.3.0",
+    "@sentry/angular": "^6.19.7",
+    "@sentry/tracing": "^6.19.7",
+    "bulma": "^0.9.3",
+    "hard-source-webpack-plugin": "^0.13.1",
     "rxjs": "~7.5.0",
+    "stacktrace-gps": "^3.0.4",
     "tslib": "^2.3.0",
     "zone.js": "~0.11.4"
   },
